@@ -25,6 +25,7 @@ Gloryplay es una plataforma educativa multijugador que convierte los contenidos 
 # ODS 
 
 ODS 4: Educación de calidad 
+
 Gloryplay garantiza el acceso a experiencias de aprendizaje inclusivas, equitativas y de calidad para niños y jóvenes latinoamericanos, independientemente de su contexto socioeconómico, al operar en dispositivos de gama baja y con planes de acceso subsidiado para instituciones públicas. La plataforma complementa la educación formal con refuerzo personalizado mediante IA, reduciendo la brecha de aprendizaje documentada por UNESCO (2023) en comprensión lectora y matemáticas.
 
 # Tecnología que utilizará
